@@ -1,4 +1,4 @@
-[![MasterHead](https://www.digitaladlectio.com/wp-content/uploads/2020/04/New-PNC-Animated-Banners.gif)]
+![MasterHead](https://www.digitaladlectio.com/wp-content/uploads/2020/04/New-PNC-Animated-Banners.gif)
 <h1 align="center">Hi 👋, I'm Andrew Dupré</h1>
 <h3 align="center">A passionate fullstack developer from Mauritius</h3>
 <img align="right" alt ="coding" width="400" src="https://miro.medium.com/max/1272/1*ZSVmWGcc1weENb0ShawWxw.gif" />
