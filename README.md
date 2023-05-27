@@ -3,7 +3,7 @@
 <h3 align="center">A passionate fullstack developer from Mauritius</h3>
 <img align="right" alt ="coding" width="400" src="https://miro.medium.com/max/1272/1*ZSVmWGcc1weENb0ShawWxw.gif" />
 
-- 🔭 I’m currently working on **Mobile translation app**
+- 🔭 I’m currently working on **Building intersting project**
 
 - 📫 How to reach me **dupreandrew60@gmail.com**
 
