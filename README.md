@@ -25,18 +25,6 @@ Jest · Cypress · Git · Figma
 
 ---
 
-## 📊 GitHub Stats
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=AndrewDupre&show_icons=true&hide_title=true&hide_border=true&theme=default" />
-</p>
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=AndrewDupre&layout=compact&hide_border=true&theme=default" />
-</p>
-
----
-
 ## 🤝 Open Source
 
 - Clean, readable, and maintainable code
